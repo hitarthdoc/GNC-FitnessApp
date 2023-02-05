@@ -1,0 +1,2 @@
+E:\hitar\Documents\Work\GNC\GNC-FitnessApp\obj\Any CPU\Debug\GNC-FitnessApp.pyproj.SuggestedBindingRedirects.cache
+E:\hitar\Documents\Work\GNC\GNC-FitnessApp\obj\Any CPU\Debug\GNC-FitnessApp.pyproj.CoreCompileInputs.cache
